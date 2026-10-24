@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0 http://www.kde.org/standards/kcfg/1.0/kcfg.xsd">
+  <kcfgfile name=""/>
+  <group name="General">
+    <entry name="cityName" type="String">
+      <default>São Paulo, São Paulo, Brasil</default>
+    </entry>
+    <entry name="latitude" type="Double">
+      <default>-23.5475</default>
+    </entry>
+    <entry name="longitude" type="Double">
+      <default>-46.63611</default>
+    </entry>
+    <entry name="refreshMinutes" type="Int">
+      <default>30</default>
+    </entry>
+  </group>
+</kcfg>
